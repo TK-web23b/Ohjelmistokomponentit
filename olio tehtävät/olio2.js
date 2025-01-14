@@ -11,7 +11,7 @@ class auto {
 }
 
 const auto1 = new auto("Toyota", "Supra", "2021");
-const auto2 = new auto("Mazda", "miata", "1998");
+const auto2 = new auto("Mazda", "Miata", "1998");
 
 auto1.tulostatiedot ();
 auto2.tulostatiedot ();
